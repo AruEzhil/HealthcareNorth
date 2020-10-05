@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="testcases.Informationtestcase"/>
+      
+       </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test2">
+    <classes>
+      <class name="testcases.Sendmessagetest"/>
+      
+       </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test3">
+    <classes>
+      <class name="testcases.SearchSymptomtest"/>
+      
+       </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test4">
+    <classes>
+      <class name="testcases.Scheduleappointmenttestcase"/>
+      
+       </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="Test5">
+    <classes>
+      <class name="testcases.ProfileTestcases"/>
+      
+       </classes>
+  </test> <!-- Test -->
+  </suite>
