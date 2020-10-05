@@ -1,5 +1,5 @@
 package testcases;
 
-public class HI {
+public class my {
 
 }
