@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Failed suite [Suite]]" duration-ms="68892" started-at="2020-10-05T18:42:35Z" finished-at="2020-10-05T18:43:44Z">
+    <groups>
+    </groups>
+    <test name="Test4(failed)(failed)" duration-ms="68892" started-at="2020-10-05T18:42:35Z" finished-at="2020-10-05T18:43:44Z">
+      <class name="testcases.Scheduleappointmenttestcase">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testcases.Scheduleappointmenttestcase@e45f292]" name="launchbrowser" is-config="true" duration-ms="21339" started-at="2020-10-05T14:42:35Z" finished-at="2020-10-05T14:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="appointment()[pri:0, instance:testcases.Scheduleappointmenttestcase@e45f292]" name="appointment" duration-ms="47537" started-at="2020-10-05T14:42:56Z" finished-at="2020-10-05T14:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appointment -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testcases.Scheduleappointmenttestcase@e45f292]" name="closebrowser" is-config="true" duration-ms="1" started-at="2020-10-05T14:43:44Z" finished-at="2020-10-05T14:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.Scheduleappointmenttestcase -->
+    </test> <!-- Test4(failed)(failed) -->
+  </suite> <!-- Failed suite [Failed suite [Suite]] -->
+</testng-results>
